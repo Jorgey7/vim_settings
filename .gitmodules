@@ -1,0 +1,9 @@
+[submodule "plugged/lightline.vim"]
+	path = plugged/lightline.vim
+	url = https://github.com/itchyny/lightline.vim.git
+[submodule "plugged/indentLine"]
+	path = plugged/indentLine
+	url = https://github.com/Yggdroot/indentLine.git
+[submodule "plugged/syntastic"]
+	path = plugged/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
