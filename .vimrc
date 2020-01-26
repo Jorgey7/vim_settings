@@ -47,6 +47,8 @@ Plug 'vim-syntastic/syntastic'
 
 Plug 'itchyny/lightline.vim'
 
+Plug 'pearofducks/ansible-vim'
+
 call plug#end()
 
 set laststatus=2
